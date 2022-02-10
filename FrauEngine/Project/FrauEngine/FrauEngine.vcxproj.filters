@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame">
+      <UniqueIdentifier>{d23df101-6b29-48c1-96da-47de74de41ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes">
+      <UniqueIdentifier>{47e453d4-12e3-4035-beb8-e8665006e796}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Class">
+      <UniqueIdentifier>{81dc1271-4d87-4204-a21a-e5b62e8c5670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine">
+      <UniqueIdentifier>{f8a16148-546b-4e6e-8523-1ad7666cb459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\DoNotTouch">
+      <UniqueIdentifier>{6d7bddd9-5789-4751-bc17-0d98b98c4b5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\DoNotTouch\imgui">
+      <UniqueIdentifier>{240dd82c-0897-4d6d-8a14-a2b6bf336ebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components">
+      <UniqueIdentifier>{3d4de2ab-4870-4a91-a0f9-339a516551f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\Camera">
+      <UniqueIdentifier>{b872874e-e1a9-4201-aa6d-74d891b214fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\ConstantBuffer">
+      <UniqueIdentifier>{0f081f5a-c060-4052-99c9-f150325f2686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\DXTK">
+      <UniqueIdentifier>{40696ea4-823f-4a63-9d49-5e12854261f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\Effekseer">
+      <UniqueIdentifier>{afbd1730-7705-4461-a02e-5f11ebe67a89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\FBX">
+      <UniqueIdentifier>{3b66ff53-81ef-4745-a5d5-52a5d66e7aba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\Light">
+      <UniqueIdentifier>{04314c55-eed3-4178-862e-4a622687038c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\ImGUI">
+      <UniqueIdentifier>{2e822b25-f1d6-4627-b0ed-76df66ca74d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\PostEffect">
+      <UniqueIdentifier>{49fb1aa7-4441-4b45-82f3-d61e0e0ca74c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Components\Shader">
+      <UniqueIdentifier>{3a224c8f-4ea6-4628-a983-6ce647010772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Application">
+      <UniqueIdentifier>{92b84c23-e700-4bf1-8205-7fff943b5d4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Library">
+      <UniqueIdentifier>{ada78e30-e04a-4889-a578-12e019005d56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\LowApplication">
+      <UniqueIdentifier>{1f119db4-c62b-40ed-b7d0-df1d19126dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects">
+      <UniqueIdentifier>{4b800afc-07df-42b8-a74f-861352adea38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Effect">
+      <UniqueIdentifier>{a47441e2-4c3e-469c-b4cc-21f50ae67e6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Camera">
+      <UniqueIdentifier>{a931f843-3153-4ad1-85de-2dfb5a422ba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Model">
+      <UniqueIdentifier>{0749fb18-4303-4e35-888a-645d4f68b843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Image">
+      <UniqueIdentifier>{4ab8edb3-19a4-4e54-bf1b-76c376b42bce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Sound">
+      <UniqueIdentifier>{606c0bf8-2b6c-47ce-8ab6-1fb5dec55d25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\ModelExtend">
+      <UniqueIdentifier>{61d60edf-6b0d-457b-851e-518f47def23c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Class\Global">
+      <UniqueIdentifier>{18d872a4-d51d-4cbe-b89d-2fad3fb63d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\FrauEngine\Objects\Lights">
+      <UniqueIdentifier>{2a9c975a-f44a-44b5-a74d-db51f8887877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Shader">
+      <UniqueIdentifier>{611eaa83-b882-48f3-83a4-f7e9430e4793}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Shader\VS">
+      <UniqueIdentifier>{fa7ddc4e-cc79-41a3-b6e1-34db28184fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Shader\PS">
+      <UniqueIdentifier>{16ee9826-ee2b-479e-9188-ed68254a8981}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Shader\PS\PostEffect">
+      <UniqueIdentifier>{1c98f34e-c5b3-4b37-98ea-35ac2908496f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Shader\VS\PostEffect">
+      <UniqueIdentifier>{d11fd7db-e21f-4fc9-80d0-b39fc14e709a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class">
+      <UniqueIdentifier>{ef09ad3f-c85a-418c-865b-24f1c1223ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\CameraWork">
+      <UniqueIdentifier>{0dd41686-7a69-4f99-b29e-e8947dd92c49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\EventManager">
+      <UniqueIdentifier>{46dd2738-efd6-4e7c-bafe-dd1756e053f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Item">
+      <UniqueIdentifier>{28fd5e83-9d5e-423f-a3c1-450ac10194d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\NormalUI">
+      <UniqueIdentifier>{d1de920c-a5ec-431f-97da-8d7d43c36245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\NovelSystem">
+      <UniqueIdentifier>{84595ba5-e7f7-44d4-a948-3e38e1c085a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Player">
+      <UniqueIdentifier>{b3433e10-a796-4b2a-b47f-be8ffe8cb543}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Shop">
+      <UniqueIdentifier>{f80c2e90-b235-4582-b78d-1633801a18e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Stage">
+      <UniqueIdentifier>{1e7bff18-d108-44ed-a7ca-b374201727e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\TutorialSystem">
+      <UniqueIdentifier>{5d3aa1f1-8797-41e0-a45a-c0910051e5c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Collider">
+      <UniqueIdentifier>{af25f03e-f80f-4542-8f9b-9fd757a63dd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\PlanterSystem">
+      <UniqueIdentifier>{b0308dad-e33f-4391-a46c-f96c4b348db5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\NextDay">
+      <UniqueIdentifier>{45df4bbe-c154-481a-9a08-34de1b1e387f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\SoundManager">
+      <UniqueIdentifier>{4a08d6c2-e438-4179-9bcc-0d4d0535320b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes">
+      <UniqueIdentifier>{0ba22421-88f0-4f95-997c-831bcb754ae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\MapScene">
+      <UniqueIdentifier>{5772e1d5-6fc5-4c0f-88ea-3fc32c5bf990}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\HandyShopScene">
+      <UniqueIdentifier>{2eeb637b-82db-4dd8-8b78-ea381c077569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\MagicShopScene">
+      <UniqueIdentifier>{48a02790-ae93-460e-8dee-ad3ba82a8a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\FlowerShopScene">
+      <UniqueIdentifier>{5f3f4e0a-ca2d-46c5-9b1b-e668624b815c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\TitleScene">
+      <UniqueIdentifier>{12812a1a-55f9-4698-a93d-04e9403420ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\Gallary">
+      <UniqueIdentifier>{a754300c-7640-4f43-8b8f-a77bd20b1a10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Scenes\OptionScene">
+      <UniqueIdentifier>{0ae39f6f-97c5-4833-af9b-71c90b76fd83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\InGame\Scenes\Class\Save">
+      <UniqueIdentifier>{d2776ed5-8901-495a-82e6-75b9d82dedd9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_demo.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx12.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_tables.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MaterialLinkerData.cpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\OpenFileDialog.cpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LowApplication.cpp">
+      <Filter>ソース ファイル\FrauEngine\LowApplication</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Application.cpp">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scene.cpp">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Resource.cpp">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Camera.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ConstantBuffer.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\ConstantBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\DXTK.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\DXTK</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\EffekseerDX12.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FBX.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Light.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\PostEffect.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\PostEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ImGuiDX12.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Shader.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ShaderResourceBuffer.cpp">
+      <Filter>ソース ファイル\FrauEngine\Components\ConstantBuffer</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CameraObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\EffectObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ModelObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ImageObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SoundObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\input.cpp">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>ソース ファイル\FrauEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Utility.cpp">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Loading.cpp">
+      <Filter>ソース ファイル\InGame\Class\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameMathLib.cpp">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\LightsObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ModelExtendObject.cpp">
+      <Filter>ソース ファイル\FrauEngine\Objects\ModelExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FlowerShopScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\FlowerShopScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GallaryScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\Gallary</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TitleScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\NovelSystem.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NovelSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Stage.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CameraWork.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\CameraWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\EventManager.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\EventManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\CSV.cpp">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TutorialSystem.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\TutorialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SimpleBoxCollider.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SimpleCircleCollider.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SlopeCollider.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Player.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Item.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Shop.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\HandyShop.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\NormalUI.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NormalUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MapScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\MapScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\HandyShopScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\HandyShopScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MagicShopScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\MagicShopScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MagicShop.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MainGameCommonProcess.cpp">
+      <Filter>ソース ファイル\InGame\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\PlanterSystem.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\PlanterSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\NextDay.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NextDay</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SoundManager.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\SoundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\EndrollScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\OptionScene.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\OptionScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Save.cpp">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Save</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ImGui\imconfig.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx12.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>ソース ファイル\FrauEngine\DoNotTouch\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MaterialLinkerData.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\OpenFileDialog.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\LowApplication.h">
+      <Filter>ソース ファイル\FrauEngine\LowApplication</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Application.h">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Scene.h">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Resource.h">
+      <Filter>ソース ファイル\FrauEngine\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Object.h">
+      <Filter>ソース ファイル\FrauEngine\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Camera.h">
+      <Filter>ソース ファイル\FrauEngine\Components\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ConstantBuffer.h">
+      <Filter>ソース ファイル\FrauEngine\Components\ConstantBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\DXTK.h">
+      <Filter>ソース ファイル\FrauEngine\Components\DXTK</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\EffekseerDX12.h">
+      <Filter>ソース ファイル\FrauEngine\Components\Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\FBX.h">
+      <Filter>ソース ファイル\FrauEngine\Components\FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ImGuiDX12.h">
+      <Filter>ソース ファイル\FrauEngine\Components\ImGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Light.h">
+      <Filter>ソース ファイル\FrauEngine\Components\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\PostEffect.h">
+      <Filter>ソース ファイル\FrauEngine\Components\PostEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Shader.h">
+      <Filter>ソース ファイル\FrauEngine\Components\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ShaderResourceBuffer.h">
+      <Filter>ソース ファイル\FrauEngine\Components\ConstantBuffer</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CameraObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\EffectObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ModelObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ImageObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SoundObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Library.h">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\input.h">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Utility.h">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Loading.h">
+      <Filter>ソース ファイル\InGame\Class\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameMathLib.h">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Objects.h">
+      <Filter>ソース ファイル\FrauEngine\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\LightsObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ModelExtendObject.h">
+      <Filter>ソース ファイル\FrauEngine\Objects\ModelExtend</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\FlowerShopScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\FlowerShopScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GallaryScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\Gallary</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TitleScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\NovelSystem.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NovelSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Stage.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CameraWork.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\CameraWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\EventManager.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\EventManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\CSV.h">
+      <Filter>ソース ファイル\FrauEngine\Library</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TutorialSystem.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\TutorialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SimpleBoxCollider.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SimpleCircleCollider.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SlopeCollider.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Player.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Item.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Shop.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\HandyShop.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\NormalUI.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NormalUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MapScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\MapScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\HandyShopScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\HandyShopScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MagicShopScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\MagicShopScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MagicShop.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MainGameCommonProcess.h">
+      <Filter>ソース ファイル\InGame\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\PlanterSystem.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\PlanterSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\NextDay.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\NextDay</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SoundManager.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\SoundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\EndrollScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\OptionScene.h">
+      <Filter>ソース ファイル\InGame\Scenes\Scenes\OptionScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Save.h">
+      <Filter>ソース ファイル\InGame\Scenes\Class\Save</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\Shader\ConstantBuffer.hlsli">
+      <Filter>リソース ファイル\Shader</Filter>
+    </None>
+    <None Include="Data\Shader\ConstantBuffer_PostEffect.hlsli">
+      <Filter>リソース ファイル\Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Data\Shader\VertexShader_Anim.hlsl">
+      <Filter>リソース ファイル\Shader\VS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\VertexShader_Shadow.hlsl">
+      <Filter>リソース ファイル\Shader\VS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Outline.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Shadow.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_PostEffect.hlsl">
+      <Filter>リソース ファイル\Shader\PS\PostEffect</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Blur.hlsl">
+      <Filter>リソース ファイル\Shader\PS\PostEffect</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_DepthOfField.hlsl">
+      <Filter>リソース ファイル\Shader\PS\PostEffect</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\VertexShader_PostEffect.hlsl">
+      <Filter>リソース ファイル\Shader\VS\PostEffect</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\VertexShader_AnimShadow.hlsl">
+      <Filter>リソース ファイル\Shader\VS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Toon.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\VertexShader_BillBoard.hlsl">
+      <Filter>リソース ファイル\Shader\VS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_BillBoard.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\VertexShader.hlsl">
+      <Filter>リソース ファイル\Shader\VS\PostEffect</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Water.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+    <FxCompile Include="Data\Shader\PixelShader_Texture.hlsl">
+      <Filter>リソース ファイル\Shader\PS</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

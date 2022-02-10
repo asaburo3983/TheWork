@@ -1,0 +1,66 @@
+﻿  DammyWindow.cpp
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.h(47): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\ohs90011\desktop\hew\hew\src\dammywindow.cpp(44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dammywindow.cpp(55): warning C4244: '=': 'long' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dammywindow.cpp(56): warning C4244: '=': 'long' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dammywindow.cpp(64): warning C4244: '=': 'long' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dammywindow.cpp(65): warning C4244: '=': 'long' から 'float' への変換です。データが失われる可能性があります。
+  DirectGraphics.cpp
+c:\users\ohs90011\desktop\hew\hew\src\directgraphics.cpp(223): warning C4244: '引数': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+  DXTK11Lib.cpp
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.h(47): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(38): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(55): warning C4244: '初期化中': 'double' から 'unsigned long' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(56): warning C4244: '初期化中': 'double' から 'unsigned long' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(57): warning C4244: '初期化中': 'double' から 'unsigned long' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(111): warning C4244: '引数': 'UINT' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(152): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(152): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(176): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(176): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(183): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(184): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(185): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(186): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(189): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.cpp(191): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  FbxMeshFile.cpp
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(553): warning C4244: '引数': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(551): warning C4244: '引数': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(549): warning C4244: '引数': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(547): warning C4244: '引数': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=fbxsdk::FbxDouble
+          ]
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(564): warning C4244: '引数': 'float' から 'const int' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\fbxmeshfile.cpp(648): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  GameMathLib.cpp
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(10): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(12): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(18): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(22): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(25): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\gamemathlib.cpp(57): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  input.cpp
+  Main.cpp
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.h(47): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  ShaderBase.cpp
+  Utility.cpp
+  WICTextureLoader.cpp
+  Window.cpp
+  コードを生成中...
+libfbxsdk-mt.lib(fbxanimstack.obj) : fatal error LNK1112: モジュールのコンピューターの種類 'x64' は対象コンピューターの種類 'x86' と競合しています。

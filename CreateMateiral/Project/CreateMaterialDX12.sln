@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateMaterialDX12", "CreateMaterialDX12\CreateMaterialDX12.vcxproj", "{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Debug|x64.ActiveCfg = Debug|x64
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Debug|x64.Build.0 = Debug|x64
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Debug|x86.Build.0 = Debug|Win32
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Release|x64.ActiveCfg = Release|x64
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Release|x64.Build.0 = Release|x64
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Release|x86.ActiveCfg = Release|Win32
+		{1FF5F3F7-CEE2-46C9-AA53-E8A13FABEF49}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C89590-504A-4587-8A73-9F5A6722CF87}
+	EndGlobalSection
+EndGlobal

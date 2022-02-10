@@ -1,0 +1,11 @@
+﻿  Main.cpp
+c:\users\ohs90011\desktop\hew\hew\src\dxtk11lib.h(47): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\ohs90011\desktop\hew\hew\src\main.cpp(47): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\ohs90011\desktop\hew\hew\src\main.cpp(48): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Window.cpp
+  コード生成しています。
+  63 of 519 functions (12.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  HEW.vcxproj -> C:\Users\ohs90011\Desktop\HEW\x64\Release\HEW.exe
