@@ -1,8 +1,0 @@
-﻿DirectXTK_d.lib(BufferHelpers.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(BufferHelpers.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(CommonStates.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(CommonStates.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(BinaryReader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(BinaryReader.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(pch.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(SpriteBatch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(SpriteBatch.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(SpriteFont.obj) : warning LNK4099: PDB 'DirectXTK.pdb' が 'DirectXTK_d.lib(SpriteFont.obj)' で、または 'C:\Users\ryose\Desktop\MADODERU\x64\Debug\DirectXTK.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-DirectXTK_d.lib(VertexTypes.obj) : warning LNK4099: PDB '' が 'DirectXTK_d.lib(VertexTypes.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
-  HEW.vcxproj -> C:\Users\ryose\Desktop\MADODERU\x64\Debug\HEW.exe
